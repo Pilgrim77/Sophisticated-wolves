@@ -29,10 +29,10 @@ cat_type.siamese=Сиамская
 rabbit_type.0=Коричневый
 rabbit_type.1=Белый
 rabbit_type.2=Чёрный
-rabbit_type.3=Чёрно-Белый
+rabbit_type.3=Чёрно-белый
 rabbit_type.4=Золотой
-rabbit_type.5=Соль и Перец
-rabbit_type.99=Кролик Убийца
+rabbit_type.5=Соль с перцем
+rabbit_type.99=Кролик-убийца
 
 # Parrot Type
 parrot_type.0=Красный
@@ -56,4 +56,4 @@ gui.food.title=Выберите тип еды, которую могут ест�
 gui.food.done_button=Готово
 
 # Villager
-entity.Villager.sophisticatedwolves:pets_seller=Продавец питомцем
+entity.Villager.sophisticatedwolves:pets_seller=Продавец питомцев
